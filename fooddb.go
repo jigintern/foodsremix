@@ -1,4 +1,6 @@
 /*
+forked from npm派 https://github.com/jigintern/Foodmates-server/blob/master/models/gorm.go
+
 mysql -uroot -p
 [dbrootpass]
 create database [dbname];
